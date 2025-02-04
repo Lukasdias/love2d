@@ -15,7 +15,7 @@ MADE IN BRAZIL
 
 OOOOOH BRAZIL MENTIONED IN THE README
 
-Leia o livro Universo em Desencanto 🇧🇷
+<html> <img src="https://img.shields.io/badge/Leia%20o-Universo%20em%20Desencanto-yellow" alt="Leia o Universo em Desencanto"> </html>
 
 ## What is Love2d?
 
