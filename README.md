@@ -53,8 +53,14 @@ I don't have any idea of what I want to learn. I just want to have fun and see w
 
 ## How to run
 
-1. Install Love2d from [here](https://love2d.org/) and Lua from [here](https://www.lua.org/download.html)
-2. Clone this repository
-3. Run `love .` in the _random_ folder of this repository
-4. _OR_ use VSCode with the Love2d extension and run the project from there using Alt+L
-5. Enjoy!
+- Read the [Love2d Docs](https://love2d.org/wiki/Getting_Started)
+- Clone this repo
+- Run `love .` on the project root folder **or** use vscode love2d extension and lauch the main.lua file using ALT+L
+- Have fun :)
+
+## Want to contribute?
+
+- Make a fork
+- Create a branch
+- Make a PR
+- I will review some day and merge it
