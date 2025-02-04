@@ -1,8 +1,6 @@
 # Love2d
 
-<html
-    style="display: flex; justify-content: center; align-items: center; flex-direction: column;"
-> 
+<html> 
     <img src="https://img.shields.io/badge/Made%20with-Love2d-red" alt="Made with Love2d">
     <img src="https://img.shields.io/badge/Made%20with-Lua-blue" alt="Made with Lua"> 
     <img src="https://img.shields.io/badge/Made%20in-Brazil-green" alt="Made in Brazil">  
