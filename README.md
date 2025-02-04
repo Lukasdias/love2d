@@ -8,9 +8,9 @@ Lua is a powerful, efficient, lightweight, embeddable scripting language. It sup
 
 MADE IN BRAZIL
 
-OOOOOH BRAZIL MENTIONED IN THE README 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+OOOOOH BRAZIL MENTIONED IN THE README
 
-Leia o livro Universo em Desencanto 🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷🇧🇷
+Leia o livro Universo em Desencanto 🇧🇷
 
 ## What is Love2d?
 
