@@ -22,7 +22,8 @@ My first game was made with Love2d. It was a simple game where you had run a bug
 
 ## Why this project?
 
-I want to test the Love2d framework again and see if I can make something cool with it. I want to make a simple game with a ball that follows the mouse. Now i'm a professional developer and I want to see how much I can do with my current knowledge.
+I want to test the Love2d framework again and see if I can make something cool with it. Now i'm a professional developer and I want to see how much I can do with my current knowledge.
+In this repo will be a lot of random stuff that I will make with Love2d. I don't know if i will have time and patience to make a full game, but I will try to make something cool.
 
 ## What I want to learn?
 
@@ -32,6 +33,8 @@ I don't have any idea of what I want to learn. I just want to have fun and see w
 
 - Random
   - Ball that follows the mouse
+- Walk
+  - Physics template from Love2d Docs
 
 ## How to run
 
