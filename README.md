@@ -1,4 +1,9 @@
-# Love2d playground
+# Love2d
+
+<html> 
+    <img src="https://img.shields.io/badge/Made%20with-Love2d-red" alt="Made with Love2d">
+    <img src="https://img.shields.io/badge/Made%20with-Lua-blue" alt="Made with Lua"> </html> <html> <img src="https://img.shields.io/badge/Made%20in-Brazil-green" alt="Made in Brazil"> </html> <html> <img src="https://img.shields.io/badge/Read%20the-README-yellow" alt="Read the README">
+</html>
 
 This is a simple project to test the Love2d framework after a long time.
 
@@ -53,26 +58,3 @@ I don't have any idea of what I want to learn. I just want to have fun and see w
 3. Run `love .` in the _random_ folder of this repository
 4. _OR_ use VSCode with the Love2d extension and run the project from there using Alt+L
 5. Enjoy!
-
-## Next steps
-
-- [ ] Create a game loop
-- [ ] Create a player
-- [ ] Create a map
-- [ ] Create a camera
-- [ ] Create a HUD
-- [ ] Create a menu
-- [ ] Create a pause screen
-- [ ] Create a game over screen
-- [ ] Create a win screen
-- [ ] SpritesSheet handling
-- [ ] Animations
-- [ ] Sound handling
-- [ ] Music handling
-- [ ] Input handling
-- [ ] Collision handling
-- [ ] Physics handling
-- [ ] Particles handling
-- [ ] Jump handling
-- [ ] Gravity handling
-- [ ] Enemies handling
