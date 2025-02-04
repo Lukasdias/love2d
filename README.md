@@ -20,6 +20,10 @@ Do you know Balatro? A fucking GOTY contender. It was made with Love2d. Love2d i
 
 My first game was made with Love2d. It was a simple game where you had run a bugged corridor and avoid the obstacles. I had a lot of fun making it and I want to have fun again.
 
+## Can i make a game with Love2d? Will it be good?
+
+Yes, you can, and it can be good. But game development is probably the hardest thing you can do in programming. You need to have a lot of patience and dedication to make a good game. But you can start with Love2d and see if you like it. It requires a lot of creativity and problem-solving skills. The TRUE full-stack development.
+
 ## Why this project?
 
 I want to test the Love2d framework again and see if I can make something cool with it. Now i'm a professional developer and I want to see how much I can do with my current knowledge.
