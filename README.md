@@ -1,6 +1,6 @@
 # Love2d playground
 
-This is a simple project to test the Love2d framework.
+This is a simple project to test the Love2d framework after a long time.
 
 ## Features
 
