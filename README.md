@@ -1,7 +1,11 @@
 # Love2d playground
 
 This is a simple project to test the Love2d framework.
-The project is a ball that follows the mouse cursor.
+
+## Features
+
+- Random
+  - Ball that follows the mouse
 
 ## How to run
 
